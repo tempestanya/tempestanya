@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Thakur</h1>
 <h3 align="center">Passionate Software Developer and UI/UX designer crafting elegant code and seamless experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-development-idea-8184990-6547023.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tempestanya&label=Profile%20views&color=0e75b6&style=flat" alt="tempestanya" /> </p>
+<img align="right" alt="Coding" width="250" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-development-idea-8184990-6547023.png">
 
 - 🔭 I’m currently working on: **Cryptocurrency based shared wallet**
   
