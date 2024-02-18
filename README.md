@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tempestanya&label=Profile%20views&color=0e75b6&style=flat" alt="tempestanya" /> </p>
 
-- 🔭 I’m currently working on **Cryptocurrency based shared wallet**
+- 🔭 I’m currently working on: **Cryptocurrency based shared wallet**
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about **UX Design**
+- 💬 Ask me about: **UX Design**
 
-- ⚡ Fun fact **I like anime**
+- ⚡ Fun fact: **I like anime**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
