@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Thakur</h1>
-<h3 align="center">Passionate Software Developer and UI/UX designer crafting elegant code and seamless experiences</h3>
+<h3 align="center">Passionate Software Developer | UI/UX designer | Crafting elegant code and seamless experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-thumb.jpg">
 
 - 🔭 I’m currently working on: **Cryptocurrency based shared wallet**
